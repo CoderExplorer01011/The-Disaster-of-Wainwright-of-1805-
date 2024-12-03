@@ -5,5 +5,5 @@
 # The game is decision based
 # The theme is mystery and horror
 # There is an inventory system
-# The inventory system only appears for a few chapters (viusally only, it'll still work and affect your choices)
+# The inventory system only appears for a few chapters (visually only, it'll still work and affect your choices)
 # After a certain chapter the inventory is no longer visible as you can't return to other chapters or is subjectively not necessary
