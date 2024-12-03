@@ -1,3 +1,4 @@
+# Inventory.py must be downloaded for the game to work properly
 # The-Disaster-of-Wainwright-of-1805-
 # This game is set in Great Britain of 1805 where Dane Miller the Player awakens confused and injured inside the Factory of Wainwright, the biggest Factory in the world.
 # Your reason of being in your situation is unknown. It's up to the player to find some details to what happened
